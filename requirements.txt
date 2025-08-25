@@ -1,0 +1,37 @@
+# Python Data Analytics Requirements
+# Core data science and analytics packages
+
+# Data Manipulation and Analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Machine Learning and Statistics
+scikit-learn>=1.1.0
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Jupyter and Interactive Development
+jupyter>=1.0.0
+ipykernel>=6.15.0
+notebook>=6.4.0
+
+# Data Import/Export
+openpyxl>=3.0.0
+xlrd>=2.0.0
+requests>=2.28.0
+
+# Additional Utilities
+tqdm>=4.64.0
+python-dateutil>=2.8.0
+
+# Optional: Advanced Analytics
+# uncomment if needed for specific analyses
+# xgboost>=1.6.0
+# lightgbm>=3.3.0
+# tensorflow>=2.9.0
+# torch>=1.12.0
